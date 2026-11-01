@@ -2,5 +2,5 @@
 
 - Getting started
   - [Overview](/)
-  - [Русский](#/ru/)
-  - [English](#/en/)
+  - [Русский](ru/)
+  - [English](en/)
