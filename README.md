@@ -2,6 +2,8 @@
 
 Reversed-engineered Lua API reference for **Craft the World (2014)**.
 
+**[Web Site](https://skynet0dev.github.io/craft-the-world-lua-api/#)
+
 > This documentation was reconstructed directly from the game binary (`CraftWorld.exe`, built with **sol2 + Lua 5.3**). There is no official API documentation — everything here was recovered via reverse engineering (registration code order, `usertype_metatable` CTTI signatures from the PDB, and disassembly).
 
 ## Choose a language
